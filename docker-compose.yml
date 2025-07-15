@@ -28,5 +28,5 @@ services:
     environment:
       ME_CONFIG_MONGODB_ADMINUSERNAME: rolamenttrade
       ME_CONFIG_MONGODB_ADMINPASSWORD: Rotimi051280
-      ME_CONFIG_MONGODB_URL: mongodb+srv://rolamenttrade:Rotimi051280@cluster0.g1nw9yr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      ME_CONFIG_MONGODB_URL: mongodb+srv://rolafoody:Rotimi051280@cluster0.g1nw9yr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       ME_CONFIG_BASICAUTH: false
